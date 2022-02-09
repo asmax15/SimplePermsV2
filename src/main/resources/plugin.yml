@@ -1,6 +1,23 @@
-name: ExamplePlugin
+name: SimplePerms
 api-version: 1.16
 authors:
-  - Me
-main: com.example.exampleplugin
+  - AsMax
+main: me.asmax.simpleperms.SimplePerms
 version: @version@
+
+commands:
+  spadd:
+  spremove:
+  sptemp:
+  spget:
+  spgadd:
+  spgpadd:
+  spgprem:
+  spgdel:
+  spglist:
+  spgplist:
+  spgpladd:
+  spgplrem:
+  spgplget:
+  spgpllist:
+  spgrem:
