@@ -36,7 +36,7 @@ This plugin also features groups.
 * `simpleperms.groups.player.add` - Allows you to use the **/spgpladd** command.
 * `simpleperms.groups.player.remove` - Allows you to use the **/spgplrem** command.
 
-### Site note
+### Side note
 This plugin is still in the development phase. That means that the plugin **will not work** properly.
 The plugin has many bugs that will be fixed over time. Please be patient.
 
